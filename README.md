@@ -23,11 +23,41 @@ El clasificador de perceptrón multicapa (MLPC) es un clasificador basado en la 
  <br>
  ![logo](/images/3.png) 
  <br>
- Ejemplo de multilayer perceptron:
+ ### Ejemplo de multilayer perceptron:
  <br>
   ![logo](/images/4.png) 
   <br>
-  
+ ###  Multilayer perceptron classifier 
+  <br>
+  El número de nodos N en la capa de salida corresponde al número de clases.
+MLPC emplea retropropagación para aprender el modelo. Utilizamos la función de pérdida logística para la optimización y L-BFGS como rutina de optimización.
+<br>
+Red Neuronal Artificial de tipo perceptrón simple con n neuronas de entrada, m neuronas en su capa oculta y una neurona de salida.
+
+### Las capas pueden clasificarse en tres tipos:
+
+Capa de entrada: Constituida por aquellas neuronas que introducen los patrones de entrada en la red. En estas neuronas no se produce procesamiento.
+Capas ocultas: Formada por aquellas neuronas cuyas entradas provienen de capas anteriores y cuyas salidas pasan a neuronas de capas posteriores.
+Capa de salida: Neuronas cuyos valores de salida se corresponden con las salidas de toda la red.
+<br>
+
+  ![logo](/images/5.png) 
+<br>
+### Aplicaciones.
+<br>
+El perceptrón multicapa (de aquí en adelante MLP, MultiLayer Perceptron) se utiliza para resolver problemas de asociación de patrones, segmentación de imágenes, compresión de datos, etc.
+<br>
+### Referencias.
+<br>
+
+
+https://spark.apache.org/docs/2.4.7/ml-classification-regression.html#multilayer-perceptron-classifier
+<br>
+https://www.youtube.com/watch?v=pbQtQ2Bdzf8
+<br>
+https://www.youtube.com/watch?v=4Zm5wFfBGvU 
+<br>
+
 
 
 
