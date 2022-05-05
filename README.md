@@ -25,7 +25,8 @@ El clasificador de perceptrón multicapa (MLPC) es un clasificador basado en la 
  <br>
  ### Ejemplo de multilayer perceptron:
  <br>
-  ![logo](/images/4.png) 
+ ![logo](/images/4.png) 
+ 
   <br>
  ###  Multilayer perceptron classifier 
   <br>
@@ -42,12 +43,15 @@ Capa de salida: Neuronas cuyos valores de salida se corresponden con las salidas
 <br>
 
   ![logo](/images/5.png) 
-<br>
+<br></br>
 ### Aplicaciones.
+
 <br>
 El perceptrón multicapa (de aquí en adelante MLP, MultiLayer Perceptron) se utiliza para resolver problemas de asociación de patrones, segmentación de imágenes, compresión de datos, etc.
-<br>
+<br></br>
+
 ### Referencias.
+
 <br>
 
 
