@@ -13,7 +13,14 @@ El clasificador de perceptrón multicapa (MLPC) es un clasificador basado en la 
 
  Todos los demás nodos asignan las entradas a las salidas mediante una combinación lineal de las entradas con los pesos del nodo w y el sesgo b y aplicando una función de activación. Esto puede escribirse en forma de matriz para la MLPC con K+1 capas como sigue:
  ![logo](/images/1.png)  
- 
+ Los nodos en las capas intermedias utilizan la función sigmoidea (logística):
+ ![logo](/images/2.png) 
+ Los nodos de la capa de salida utilizan la función softmax:
+ ![logo](/images/3.png) 
+ Ejemplo de multilayer perceptron:
+  ![logo](/images/4.png) 
+  
+
 
 
 
