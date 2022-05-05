@@ -25,10 +25,12 @@ El clasificador de perceptrón multicapa (MLPC) es un clasificador basado en la 
  <br>
  ### Ejemplo de multilayer perceptron:
  <br>
+ 
  ![logo](/images/4.png) 
  
-  <br>
- ###  Multilayer perceptron classifier 
+  <br> </br>
+ ###  Multilayer perceptron classifier.
+ 
   <br>
   El número de nodos N en la capa de salida corresponde al número de clases.
 MLPC emplea retropropagación para aprender el modelo. Utilizamos la función de pérdida logística para la optimización y L-BFGS como rutina de optimización.
